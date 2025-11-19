@@ -194,30 +194,11 @@ AI-powered nutrition recommendations based on pet type, age, weight, and climate
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
+## 💬 Include the live link and all relevant project links
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 💬 Support & Contact
-
-For questions, feedback, or support:
-
-- Create an issue in the repository
-- Contact the development team
+- GitHub Repo: 
 - Visit the live website: https://cozy-winter-companion.web.app
 
 ---
