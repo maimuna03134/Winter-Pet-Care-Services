@@ -1,0 +1,173 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "contact@pawcarestudio.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "image": "https://i.ibb.co.com/dsDxQG6J/OIP.webp",
+    "category": "Clothing",
+    "description": "Keep your dog warm and stylish this winter with our perfectly tailored winter coat fitting service ensuring comfort and mobility.",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 395 }
+    ]
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Cat Sweater Custom Tailoring",
+    "providerName": "WarmWhiskers",
+    "providerEmail": "hello@warmwhiskers.com",
+    "price": 18,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "image": "https://i.ibb.co.com/4RkwQZpr/Bolbove-Cable-Knit-Turtleneck-Sweater-for-Small-Dogs-Cats-Knitwear-Cold-Weather-Outfit-Brown-Medium.jpg",
+    "category": "Clothing",
+    "description": "Custom-made sweaters designed for cats to ensure a snug fit and cozy warmth during the chilly months.",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Winter Grooming & Fur Care",
+    "providerName": "FurryFriends Salon",
+    "providerEmail": "support@furryfriends.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "image": "https://i.ibb.co.com/H1rWNWd/winter-grooming-is-important.jpg",
+    "category": "Grooming",
+    "description": "Maintain your pet’s healthy coat and prevent winter dryness with our specialized grooming and fur conditioning treatment.",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 475 }
+    ]
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Paw Wax Protection Treatment",
+    "providerName": "PupSpa Hub",
+    "providerEmail": "info@puspahub.com",
+    "price": 20,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "image": "https://i.ibb.co.com/Lz9qMMZQ/pexels-tima-miroshnichenko-6235018.jpg",
+    "category": "Grooming",
+    "description": "Protect your dog’s paws from snow, salt, and ice with our organic paw wax treatment that keeps pads soft and safe.",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Heated Bed Rental for Small Pets",
+    "providerName": "SnuggleSpot",
+    "providerEmail": "rentals@snugglespot.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "image": "https://i.ibb.co.com/TxTYYy25/OIP.webp",
+    "category": "Comfort",
+    "description": "Provide your furry companion with a cozy heated bed rental to ensure warmth and restful sleep all winter long.",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Walking Service (Short Duration)",
+    "providerName": "FrostyPaws Walkers",
+    "providerEmail": "walks@frostypaws.com",
+    "price": 12,
+    "rating": 4.8,
+    "slotsAvailable": 8,
+    "image": "https://i.ibb.co.com/qFYNhwLp/92-CB3328-9073-4-A78-A485-631-D315-E03-D3.jpg",
+    "category": "Walking",
+    "description": "Keep your pets active safely during winter with our short, supervised walks designed for cold-weather comfort.",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Pet Health Checkup (Cold Season Special)",
+    "providerName": "VetCare Plus",
+    "providerEmail": "clinic@vetcareplus.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "image": "https://i.ibb.co.com/sJyYvYz3/shutterstock-2386500321.jpg",
+    "category": "Health",
+    "description": "Comprehensive health checkup for your pets to detect and prevent common winter-related illnesses and joint stiffness.",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "HealthyTails Nutrition",
+    "providerEmail": "advice@healthytails.com",
+    "price": 30,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "image": "https://i.ibb.co.com/v6R7LBV7/paradigm-y6lflgt.jpg",
+    "category": "Nutrition",
+    "description": "Get expert advice on diet adjustments to boost your pet’s immunity and energy during the colder season.",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 365 }
+    ]
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Snow-Proof Boots Fitting",
+    "providerName": "FurSteps Studio",
+    "providerEmail": "orders@fursteps.com",
+    "price": 28,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "image": "https://i.ibb.co.com/nsJjpCnM/2-95df2fb5-322c-4ee1-98e3-2924958e8e9a.jpg",
+    "category": "Clothing",
+    "description": "Perfectly sized, snow-proof boots that keep your pet’s paws warm and dry for outdoor winter adventures.",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 345 }
+    ]
+  }
+]

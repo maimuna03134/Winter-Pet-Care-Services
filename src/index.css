@@ -1,0 +1,11 @@
+
+@import "tailwindcss";
+ @plugin "daisyui" {
+  themes: light --default;
+ }
+
+
+
+.btn-style{
+    @apply  text-base-100 font-bold bg-linear-to-br from-orange-400 to-orange-600 px-8 cursor-pointer
+}
