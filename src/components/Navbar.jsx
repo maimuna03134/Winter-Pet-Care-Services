@@ -79,10 +79,12 @@ const Navbar = () => {
               )}
             </ul>
           </div>
-          <div className=" bg-linear-to-r from-orange-300 to-orange-100 rounded-full flex items-center justify-center">
-            <span className="text-white text-2xl">🐱</span>
-          </div>
-          <a className="ml-2 font-bold text-xl text-[#031b4b]">WarmPaws</a>
+          <Link to="/" className="flex items-center justify-center">
+            <div className=" bg-linear-to-r from-orange-300 to-orange-100 rounded-full ">
+              <span className="text-white text-2xl">🐱</span>
+            </div>
+            <a className="ml-2 font-bold text-xl text-[#031b4b]">WarmPaws</a>
+          </Link>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
