@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/warmpaws.git
+git clone https://github.com/maimuna03134/Winter-Pet-Care-Services.git
 cd warmpaws
 ```
 
