@@ -200,6 +200,7 @@ AI-powered nutrition recommendations based on pet type, age, weight, and climate
 
 - GitHub Repo: https://github.com/maimuna03134/Winter-Pet-Care-Services.git
 - Visit the live website: https://cozy-winter-companion.web.app
+- **📱 Mobile Responsive:** Works on all devices
 
 ---
 
