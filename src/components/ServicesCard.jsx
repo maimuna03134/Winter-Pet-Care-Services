@@ -3,8 +3,6 @@ import { FaStar } from 'react-icons/fa';
 import { Link } from 'react-router';
 
 
-
-
 const ServicesCard = ({ service , index}) => {
   const {serviceId, image, serviceName, category, rating, price } = service;
   return (

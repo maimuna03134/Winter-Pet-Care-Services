@@ -44,7 +44,7 @@ const WhyChoose = () => {
   ];
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center py-20 px-4 bg-white overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center py-20 px-4 bg-white overflow-hidden rounded-2xl hover:shadow-2xl transition-all">
       {/* Animated gradient background */}
       <div className="absolute inset-0 overflow-hidden">
         <div

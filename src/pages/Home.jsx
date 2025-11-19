@@ -22,7 +22,7 @@ const Home = () => {
         <MeetExpertVets></MeetExpertVets>
       </section>
       {/* choose section */}
-      <section>
+      <section className='my-10 '>
         <WhyChoose></WhyChoose>
       </section>
     </div>
