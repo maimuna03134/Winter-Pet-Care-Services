@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/warmpaws.git
+git clone https://github.com/maimuna03134/Winter-Pet-Care-Services.git
 cd warmpaws
 ```
 
@@ -198,8 +198,9 @@ AI-powered nutrition recommendations based on pet type, age, weight, and climate
 ## 💬 Include the live link and all relevant project links
 
 
-- GitHub Repo: 
+- GitHub Repo: https://github.com/maimuna03134/Winter-Pet-Care-Services.git
 - Visit the live website: https://cozy-winter-companion.web.app
+- **📱 Mobile Responsive:** Works on all devices
 
 ---
 
