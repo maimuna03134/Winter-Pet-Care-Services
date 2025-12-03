@@ -57,8 +57,13 @@ const Footer = () => {
             <a className="link link-hover flex items-center space-x-2 hover:text-orange-400">
               <IoLocation className="w-4 h-4 text-orange-400 " />
               <span className="text-gray-400 hover:text-orange-400">
-                123 Pet Street, NY
+                123 Cozy Paws Lane
+                <br />
+                Snowbridge, NY 12983
+                <br />
+                United States
               </span>
+             
             </a>
           </nav>
           <div className="">
