@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaPaw } from 'react-icons/fa';
+import { Link } from 'react-router';
 
 const PricingBanner = () => {
     return (
@@ -7,7 +8,7 @@ const PricingBanner = () => {
         <div className="absolute top-10 right-20 text-pink-300 text-6xl opacity-50">
           <FaPaw />
         </div>
-        <div className="absolute top-32 right-40 text-blue-300 text-5xl opacity-50">
+        <div className="absolute md:top-32 md:right-40 bottom-10 left-20 text-blue-300 text-5xl opacity-50">
           <FaPaw />
         </div>
         <div className="max-w-4xl mx-auto text-center px-4">
