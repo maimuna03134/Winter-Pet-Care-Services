@@ -48,7 +48,7 @@ const MeetExpertVets = () => {
    
     
     return (
-      <div className="my-10">
+      <div>
         <div className="text-center mb-12" data-aos="zoom-in">
           <h2 className="text-4xl font-bold text-gray-800 mb-4">
             Meet Our Expert Veterinarians 👨‍⚕️

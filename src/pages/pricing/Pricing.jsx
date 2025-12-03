@@ -11,16 +11,16 @@ const Pricing = () => {
         {/* Pricing Banner */}
         <PricingBanner />
 
-            <MyContainer className={"pb-16"}>
-                
-          {/* plan and pricing */}
-          <PlansAndPricing />
-
-          {/* FAQ */}
-          <FAQ/>
+        <MyContainer>
+          <div className="my-10">
+            {/* plan and pricing */}
+            <PlansAndPricing />
+          </div>
+          <div className="my-10">
+            {/* FAQ */}
+            <FAQ />
+          </div>
         </MyContainer>
-
-
       </div>
     );
 };

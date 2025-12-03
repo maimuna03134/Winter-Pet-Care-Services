@@ -4,7 +4,7 @@ import { FaHeart, FaPaw, FaShieldAlt, FaStar } from 'react-icons/fa';
 
 const AboutContent = () => {
     return (
-      <div className="px-10 py-16">
+      <div className="px-10">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Images Section */}
           <div className="relative">

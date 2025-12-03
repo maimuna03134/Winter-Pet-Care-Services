@@ -117,7 +117,7 @@ const PlansAndPricing = () => {
     
 
     return (
-      <div className="px-4 py-16">
+      <div className="px-4">
         <div className="text-center mb-12">
           <div className="text-orange-500 font-semibold mb-2 uppercase text-sm tracking-wide">
             Our Packages

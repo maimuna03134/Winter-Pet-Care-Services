@@ -7,10 +7,10 @@ import Feature from "./Feature";
 
 const WhyChooseUs = () => {
   return (
-    <section className="relative  flex items-center justify-center py-20 px-4 overflow-hidden">
+    <section className="relative  flex items-center justify-center px-4 overflow-hidden">
       <div className="max-w-7xl w-full relative z-10">
         {/* Header Section */}
-        <div className="text-center mb-16">
+        <div className="text-center">
           <div className="inline-flex items-center gap-2 bg-linear-to-r from-orange-100 to-pink-100 px-4 py-2 rounded-full mb-6 border border-orange-200">
             <span className="w-2 h-2 bg-orange-600 rounded-full animate-pulse"></span>
             <span className="text-sm font-semibold text-orange-700">

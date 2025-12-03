@@ -13,31 +13,31 @@ const Home = () => {
   return (
     <MyContainer>
       {/* services section*/}
-      <section>
+      <section  className="py-16 ">
         <ServicesSlice></ServicesSlice>
       </section>
-      <section>
+      <section  className="py-16 ">
         <AboutContent />
       </section>
       {/* winter tips section*/}
-      <section>
+      <section className="py-16 ">
         <WinterTips></WinterTips>
       </section>
       {/* meet experts section */}
-      <section>
+      <section className="py-16 ">
         <MeetExpertVets></MeetExpertVets>
       </section>
       {/* choose section */}
-      <section className="my-10 ">
+      <section  className="py-16 ">
         <WhyChoose></WhyChoose>
       </section>
-      <section>
+      <section className="py-16 ">
         <ScheduleForm/>
       </section>
-      <section>
+      <section className="py-16 ">
         <PlansAndPricing/>
       </section>
-      <section>
+      <section className="py-16 ">
         <Testimonial/>
       </section>
     </MyContainer>

@@ -15,7 +15,7 @@ const ServicesSlice = () => {
     
     return (
       <div>
-        <div className="text-center mb-12">
+        <div className="text-center mb-8">
           <h2 className="text-4xl font-bold text-gray-800 mb-4">
             Popular Winter Care Services
           </h2>
@@ -35,7 +35,7 @@ const ServicesSlice = () => {
             </div>
           ))}
         </div>
-        <div className="text-center lg:text-right  mb-8">
+        <div className="text-center lg:text-right ">
           <Link
             to="/services"
             className="inline-block bg-orange-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600 transition"

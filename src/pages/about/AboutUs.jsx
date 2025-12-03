@@ -5,6 +5,7 @@ import ScheduleForm from "../ScheduleForm";
 import AboutContent from "./AboutContent";
 import HeroAbout from "./HeroAbout";
 import WhyChooseUs from "../whyChoose/WhyChooseUs";
+import Testimonial from "../Testimonial";
 
 const AboutUs = () => {
   return (
@@ -14,13 +15,24 @@ const AboutUs = () => {
 
       <MyContainer>
         {/* Main Content Section */}
-        <AboutContent />
+        <div className="my-10">
+          <AboutContent />
+        </div>
+
         {/* Consultation Section */}
-        <ScheduleForm />
+        <div className="my-10">
+          <ScheduleForm />
+        </div>
+
         {/* Why Choose Us Section */}
-        <WhyChooseUs />
-        {/* Testimonials Section */}
-        {/* <Testimonial /> */}
+        <div className="my-10">
+          <WhyChooseUs />
+        </div>
+              <div className="my-10">
+                  {/* Testimonials Section */}
+        <Testimonial /> 
+        </div>
+       
       </MyContainer>
     </div>
   );
