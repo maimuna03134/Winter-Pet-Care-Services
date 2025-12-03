@@ -7,6 +7,7 @@ import HeroSlider from "../pages/HeroSlider";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Loading from "../pages/Loading";
+import ScrollTop from "../components/scrollToTopButton/ScrollTop";
 
 const HomeLayouts = () => {
   const location = useLocation();
@@ -36,13 +37,13 @@ const HomeLayouts = () => {
         <section>
           <HeroSlider />
         </section>
-      )}  
-        <main>
-          {
-            state=='loading'?<Loading/>:<Outlet></Outlet>
-          }
-          
-        </main>
+      )}
+      <main>
+        {state == "loading" ? <Loading /> : <Outlet></Outlet>}
+
+        {/* Scroll to Top Button */}
+        <ScrollTop />
+      </main>
 
       <footer>
         <Footer></Footer>

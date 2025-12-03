@@ -1,17 +1,22 @@
-import React from 'react';
-import MeetExpertVets from './MeetExpertVets';
-import WinterTips from './WinterTips';
-import WhyChoose from './WhyChoose';
-import ServicesSlice from './ServicesSlice';
+import React from "react";
+import MeetExpertVets from "./MeetExpertVets";
+import WinterTips from "./WinterTips";
+import WhyChoose from "./whyChoose/WhyChooseUs";
+import ServicesSlice from "./ServicesSlice";
+import MyContainer from "../components/container/MyContainer";
+import AboutContent from "./about/AboutContent";
+import ScheduleForm from "./ScheduleForm";
+import PlansAndPricing from "./pricing/PlansAndPricing";
 
 const Home = () => {
-    
-
   return (
-    <div>
+    <MyContainer>
       {/* services section*/}
       <section>
         <ServicesSlice></ServicesSlice>
+      </section>
+      <section>
+        <AboutContent />
       </section>
       {/* winter tips section*/}
       <section>
@@ -22,10 +27,16 @@ const Home = () => {
         <MeetExpertVets></MeetExpertVets>
       </section>
       {/* choose section */}
-      <section className='my-10 '>
+      <section className="my-10 ">
         <WhyChoose></WhyChoose>
       </section>
-    </div>
+      <section>
+        <ScheduleForm/>
+      </section>
+      <section>
+        <PlansAndPricing/>
+      </section>
+    </MyContainer>
   );
 };
 

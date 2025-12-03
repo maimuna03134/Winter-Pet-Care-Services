@@ -131,11 +131,10 @@ const PlansAndPricing = () => {
           {pricingPlans.map((plan, index) => (
             <div
               key={index}
-            className="bg-white rounded-2xl p-8 shadow-md transition-all hover:shadow-xl hover:border-2 hover:border-orange-400"
+              className="bg-white rounded-2xl p-8 shadow-md transition-all hover:shadow-xl hover:border-2 hover:border-orange-400"
             >
-             
-
-              <div className="grid grid-cols-4">
+                  <div className="grid grid-cols-1 md:grid-cols-4">
+                      {/* title and price */}
                 <div className="mb-6 col-span-1">
                   <h3 className="text-xl font-bold text-gray-800 mb-4">
                     {plan.name}
@@ -147,9 +146,10 @@ const PlansAndPricing = () => {
                     </span>
                     <span className="text-gray-500 mt-6 ml-1">/Visit</span>
                   </div>
-                </div>
+                      </div>
+                      
                 <div className="col-span-2">
-                  <div className="space-y-3 mb-8 grid grid-cols-2">
+                  <div className="space-y-3 mb-8 grid md:grid-cols-2">
                     {plan.features.map((feature, idx) => (
                       <div key={idx} className="flex items-center gap-3">
                         <div className={`${feature.color} text-lg`}>

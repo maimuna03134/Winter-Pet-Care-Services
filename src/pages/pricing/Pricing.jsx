@@ -3,7 +3,7 @@ import PricingBanner from './PricingBanner';
 import PlansAndPricing from './PlansAndPricing';
 import FAQ from './FAQ';
 import MyContainer from '../../components/container/MyContainer';
-import ScrollTop from '../../components/scrollToTopButton/ScrollTop';
+
 
 const Pricing = () => {
     return (
@@ -20,8 +20,7 @@ const Pricing = () => {
           <FAQ/>
         </MyContainer>
 
-        {/* Scroll to Top Button */}
-        <ScrollTop/>
+
       </div>
     );
 };

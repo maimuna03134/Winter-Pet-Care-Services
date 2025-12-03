@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import toast from "react-hot-toast";
-import MyContainer from "../../components/container/MyContainer";
+import MyContainer from "../components/container/MyContainer";
 
 const ScheduleForm = () => {
   const [formData, setFormData] = useState({

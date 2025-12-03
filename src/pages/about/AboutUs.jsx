@@ -1,12 +1,10 @@
 import React from "react";
-import { FaPaw, FaHeart, FaStar, FaShieldAlt } from "react-icons/fa";
-import { MdPets, MdLocalHospital } from "react-icons/md";
-import { GiDogBowl, GiSittingDog } from "react-icons/gi";
 import MyContainer from "../../components/container/MyContainer";
 
-import ScheduleForm from "./ScheduleForm";
+import ScheduleForm from "../ScheduleForm";
 import AboutContent from "./AboutContent";
 import HeroAbout from "./HeroAbout";
+import WhyChooseUs from "../whyChoose/WhyChooseUs";
 
 const AboutUs = () => {
   return (
@@ -20,7 +18,7 @@ const AboutUs = () => {
         {/* Consultation Section */}
         <ScheduleForm />
         {/* Why Choose Us Section */}
-        {/* <WhyChoose /> */}
+        <WhyChooseUs />
         {/* Testimonials Section */}
         {/* <Testimonial /> */}
       </MyContainer>
