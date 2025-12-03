@@ -7,6 +7,7 @@ import MyContainer from "../components/container/MyContainer";
 import AboutContent from "./about/AboutContent";
 import ScheduleForm from "./ScheduleForm";
 import PlansAndPricing from "./pricing/PlansAndPricing";
+import Testimonial from "./Testimonial";
 
 const Home = () => {
   return (
@@ -35,6 +36,9 @@ const Home = () => {
       </section>
       <section>
         <PlansAndPricing/>
+      </section>
+      <section>
+        <Testimonial/>
       </section>
     </MyContainer>
   );
