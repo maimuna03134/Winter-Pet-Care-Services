@@ -9,14 +9,8 @@
     "slotsAvailable": 4,
     "image": "https://i.ibb.co.com/dsDxQG6J/OIP.webp",
     "category": "Clothing",
-    "description": "Keep your dog warm and stylish this winter with our perfectly tailored winter coat fitting service ensuring comfort and mobility.",
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 395 }
-    ]
+    "shortDescription": "Professional custom winter coat fitting for dogs of all breeds and sizes.",
+    "longDescription": "Keep your dog warm, dry, and moving freely all winter long.\nOur experienced tailors take precise measurements of neck, chest, length, and leg openings.\nWe use premium insulated, water-repellent fabrics that are lightweight yet incredibly warm.\nChoose from dozens of colors, reflective trims, and fun patterns.\nThe entire session lasts 30-45 minutes and your dog walks out wearing their new coat the same day.\nPerfect for short-haired breeds, puppies, seniors, or any dog that shivers in the cold.\nCoats are machine-washable and come with a 60-day adjustment guarantee.  \nWe can add harness holes or modify for special needs (e.g., IVDD, wheelchairs).\nHundreds of happy pups stay cozy every winter thanks to our perfect fits.\nBook early — slots disappear fast when the first snow falls!\nYour dog will thank you with extra tail wags all season."
   },
   {
     "serviceId": 2,
@@ -28,14 +22,8 @@
     "slotsAvailable": 6,
     "image": "https://i.ibb.co.com/4RkwQZpr/Bolbove-Cable-Knit-Turtleneck-Sweater-for-Small-Dogs-Cats-Knitwear-Cold-Weather-Outfit-Brown-Medium.jpg",
     "category": "Clothing",
-    "description": "Custom-made sweaters designed for cats to ensure a snug fit and cozy warmth during the chilly months.",
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 405 }
-    ]
+    "shortDescription": "Made-to-measure cozy sweaters crafted especially for cats.",
+    "longDescription": "Even the grumpiest cats secretly love being warm.\nWe specialize in stress-free measuring sessions using treats and calm handling.\nSoft, stretchy, breathable yarns that never itch or restrict movement.\nChoose classic cable knit, holiday themes, or minimalist solid colors.\nEvery sweater is pre-shrunk and machine-washable for easy care.\nIdeal for Sphynx, Devon Rex, seniors, or any cat that seeks heated blankets.\nMost cats adjust within 1-2 days and then refuse to take them off.\nWe can add belly coverage or longer sleeves for extra warmth.\nSame-day service available on most orders under 15 lbs.\nHundreds of cats stay toasty and stylish every winter.\nYour feline overlord deserves the very best — book their custom sweater today!"
   },
   {
     "serviceId": 3,
@@ -47,14 +35,8 @@
     "slotsAvailable": 3,
     "image": "https://i.ibb.co.com/H1rWNWd/winter-grooming-is-important.jpg",
     "category": "Grooming",
-    "description": "Maintain your pet’s healthy coat and prevent winter dryness with our specialized grooming and fur conditioning treatment.",
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 320 },
-      { "name": "5 star", "count": 475 }
-    ]
+    "shortDescription": "Deep hydrating winter groom that fights dryness and keeps coats shiny.",
+    "longDescription": "Winter air + indoor heating = dry, flaky skin and static-filled fur.\nOur winter package starts with a gentle oatmeal shampoo to soothe irritation.\nFollowed by rich moisturizing conditioner and hot-oil treatment tailored to coat type.\nWe detangle mats, remove excess undercoat, and apply anti-static finishing spray.\nPaw pads get extra balm to prevent cracking from cold floors.\nLong-haired pets receive sanitary trims and fluff-drying in a warm room.\nShort-haired pets enjoy a skin-soothing massage that boosts circulation.\nNails are trimmed and ears cleaned as standard.\nThe entire session leaves your pet smelling fresh and feeling comfortable.\nRecommended every 4-6 weeks throughout the cold season.\nYou’ll notice less shedding on your furniture and happier, itch-free pets.\nBook now and give your furry friend the ultimate winter spa day."
   },
   {
     "serviceId": 4,
@@ -66,14 +48,8 @@
     "slotsAvailable": 5,
     "image": "https://i.ibb.co.com/Lz9qMMZQ/pexels-tima-miroshnichenko-6235018.jpg",
     "category": "Grooming",
-    "description": "Protect your dog’s paws from snow, salt, and ice with our organic paw wax treatment that keeps pads soft and safe.",
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 630 }
-    ]
+    "shortDescription": "Natural paw wax barrier against ice, salt, and freezing sidewalks.",
+    "longDescription": "Salt and de-icers cause painful cracks and chemical burns on tender paw pads.\nOur 100% organic wax blends beeswax, shea butter, coconut oil, and vitamin E.\nWe gently clean and dry each paw before massaging the wax deep into pads and between toes.\nCreates a flexible, breathable shield that lasts 5-7 days even with daily walks.\nCompletely safe if licked in small amounts — no toxic ingredients.\nPerfect for city dogs walking on treated sidewalks or country pups in snow.\nClients report zero limping and noticeably softer pads after first application.\nQuick 15-minute service — great add-on to any grooming or walking package.\nWe also teach you how to re-apply at home between visits.\nProtect those precious paws before the next snowstorm hits!"
   },
   {
     "serviceId": 5,
@@ -85,14 +61,8 @@
     "slotsAvailable": 7,
     "image": "https://i.ibb.co.com/TxTYYy25/OIP.webp",
     "category": "Comfort",
-    "description": "Provide your furry companion with a cozy heated bed rental to ensure warmth and restful sleep all winter long.",
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 405 }
-    ]
+    "shortDescription": "Rent a safe, cozy heated bed for the whole winter season.",
+    "longDescription": "No need to buy an expensive heated bed you’ll store 9 months of the year.\nChoose between self-warming thermal pads or low-voltage electric beds with thermostat.\nAll beds are chew-resistant and have overheat protection for total safety.\nPerfect for small dogs, cats, rabbits, guinea pigs, and senior pets with arthritis.\nWashable fleece covers included — we deliver clean and collect at season end.\nGreat for hairless breeds, post-surgery recovery, or pets who love warm spots.\nMonthly and seasonal rates — the longer you rent, the lower the daily cost.\nHundreds of pets stay pain-free and cozy thanks to our rental program.\nReserve yours today and give your companion the gift of constant warmth."
   },
   {
     "serviceId": 6,
@@ -104,14 +74,8 @@
     "slotsAvailable": 8,
     "image": "https://i.ibb.co.com/qFYNhwLp/92-CB3328-9073-4-A78-A485-631-D315-E03-D3.jpg",
     "category": "Walking",
-    "description": "Keep your pets active safely during winter with our short, supervised walks designed for cold-weather comfort.",
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 430 }
-    ]
+    "shortDescription": "Quick, safe 15-20 minute winter walks for cold-sensitive dogs.",
+    "longDescription": "Many dogs still need exercise but can’t handle long exposure to freezing temperatures.\nOur insured walkers arrive with booties, coats, and snoods if needed.\nWe choose routes away from salted sidewalks and icy patches.\nEach walk is GPS-tracked with real-time updates and cute photos sent to you.\nPaws are towel-dried and inspected immediately after returning home.\nIdeal for small breeds, seniors, pugs, bulldogs, or any dog that gets cold fast.\nMultiple time slots daily, even during snowstorms.\nShort bursts of activity keep weight off and spirits high all winter.\nClients love the peace of mind knowing their pups stay active and safe."
   },
   {
     "serviceId": 7,
@@ -123,14 +87,8 @@
     "slotsAvailable": 2,
     "image": "https://i.ibb.co.com/sJyYvYz3/shutterstock-2386500321.jpg",
     "category": "Health",
-    "description": "Comprehensive health checkup for your pets to detect and prevent common winter-related illnesses and joint stiffness.",
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 35 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 380 }
-    ]
+    "shortDescription": "Comprehensive winter wellness exam focused on cold-weather health risks.",
+    "longDescription": "Winter hides problems: stiff joints, dry skin infections, and lower immunity.\nOur vets perform a nose-to-tail exam with special attention to arthritis signs.\nWe check weight, listen to heart and lungs, examine ears, skin, and paw pads.\nJoint flexibility tests and pain assessment included at no extra charge.\nYou’ll receive personalized advice on supplements, indoor exercise, and diet tweaks.\nEarly detection prevents expensive emergencies later in the season.\nIncludes free sample of joint treats or immune booster while supplies last.\nHighly recommended for pets over 7 years or breeds prone to hip issues.\nBook this limited cold-season special before slots run out!"
   },
   {
     "serviceId": 8,
@@ -142,14 +100,8 @@
     "slotsAvailable": 4,
     "image": "https://i.ibb.co.com/v6R7LBV7/paradigm-y6lflgt.jpg",
     "category": "Nutrition",
-    "description": "Get expert advice on diet adjustments to boost your pet’s immunity and energy during the colder season.",
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 365 }
-    ]
+    "shortDescription": "Expert winter diet plan to boost immunity and maintain perfect weight.",
+    "longDescription": "Colder weather increases calorie needs, but less activity can lead to weight gain.\nOur certified pet nutritionist reviews current food, treats, age, and health conditions.\nYou receive a complete winter feeding schedule with portion sizes and meal timing.\nLearn which foods strengthen immunity, support joints, and prevent dry skin.\nWe recommend specific brands or balanced homemade recipes if you prefer.\nPrinted plan + two weeks of WhatsApp follow-up support included.\nClients see shinier coats, better energy, and fewer vet visits.\nPerfect for seniors, picky eaters, or pets with allergies.\nGive your companion the nutrition edge this winter — book your consult now!"
   },
   {
     "serviceId": 9,
@@ -161,13 +113,7 @@
     "slotsAvailable": 5,
     "image": "https://i.ibb.co.com/nsJjpCnM/2-95df2fb5-322c-4ee1-98e3-2924958e8e9a.jpg",
     "category": "Clothing",
-    "description": "Perfectly sized, snow-proof boots that keep your pet’s paws warm and dry for outdoor winter adventures.",
-    "ratings": [
-      { "name": "1 star", "count": 35 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 345 }
-    ]
+    "shortDescription": "Professional fitting of waterproof, anti-slip winter boots for dogs and cats.",
+    "longDescription": "Wrong-sized boots fall off or cause blisters — our fitters guarantee perfection.\nWe stock rugged boots with thick soles that stop ice balls and salt burn.\nReflective strips and secure velcro straps on every pair for safety.\nYour pet tries multiple sizes while we watch gait and comfort level.\nPositive-reinforcement treats help even nervous dogs accept boots quickly.\nMost pets walk normally within minutes of proper fitting.\n30-day comfort guarantee — full refund if your pet refuses them.\nBoots are lightweight yet incredibly durable in snow and slush.\nWalk out ready for any winter adventure the same day.\nProtect paws and enjoy longer, happier walks all season!"
   }
 ]

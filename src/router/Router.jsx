@@ -47,11 +47,11 @@ export const router = createBrowserRouter([
       },
       {
         path: "/services/:id",
-        element: (
-          <PrivateRoute>
-            <ServicesDetailsCard></ServicesDetailsCard>
-          </PrivateRoute>
-        ),
+        element: 
+          
+            <ServicesDetailsCard></ServicesDetailsCard>,
+          
+        
         loader: () => fetch("/servicesData.json"),
         hydrateFallbackElement: <Loading></Loading>,
       },

@@ -46,12 +46,12 @@ const HeroSlider = () => {
       pagination={{ clickable: true }}
       autoplay={{ delay: 3000 }}
       loop={true}
-      className="h-[90vh] w-full my-10"
+      className="h-[60vh] w-full my-10"
     >
       {slides.map((slide, index) => (
         <SwiperSlide key={index}>
           <div
-            className="h-[90vh] w-full bg-center bg-cover flex flex-col justify-center items-center text-white relative"
+            className="h-[60vh] w-full bg-center bg-cover flex flex-col justify-center items-center text-white relative"
             style={{ backgroundImage: `url(${slide.image})` }}
           >
             <div className="absolute inset-0 bg-black/50"></div>
