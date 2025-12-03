@@ -3,6 +3,7 @@ import { BsInstagram, BsTwitter } from 'react-icons/bs';
 import { FaEnvelope, FaFacebook, FaPhone } from 'react-icons/fa';
 import { IoLocation } from 'react-icons/io5';
 import MyContainer from './container/MyContainer';
+import { Link } from 'react-router';
 
 const Footer = () => {
   return (
@@ -22,18 +23,22 @@ const Footer = () => {
         <footer className="footer sm:footer-horizontal text-white p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 ">
           <nav>
             <h6 className="footer-title hover:text-orange-500">Quick Links</h6>
-            <a className="link link-hover hover:text-orange-400 transition">
-              About us
-            </a>
-            <a className="link link-hover hover:text-orange-400 transition">
-              Services
-            </a>
-            <a className="link link-hover hover:text-orange-400 transition">
-              Expert Team
-            </a>
-            <a className="link link-hover hover:text-orange-400 transition">
-              Blog
-            </a>
+            <Link to="/about-us">
+              <p className="link link-hover hover:text-orange-400 transition">
+                About us
+              </p>
+            </Link>
+
+            <Link to="/services">
+              <p className="link link-hover hover:text-orange-400 transition">
+                Services
+              </p>
+            </Link>
+            <Link to="/contact">
+              <p className="link link-hover hover:text-orange-400 transition">
+                Contact Us
+              </p>
+            </Link>
           </nav>
           <nav>
             <h6 className="footer-title hover:text-orange-500">Contact Info</h6>
