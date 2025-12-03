@@ -36,15 +36,13 @@ const HomeLayouts = () => {
         <section>
           <HeroSlider />
         </section>
-      )}
-      <MyContainer>
+      )}  
         <main>
           {
             state=='loading'?<Loading/>:<Outlet></Outlet>
           }
           
         </main>
-      </MyContainer>
 
       <footer>
         <Footer></Footer>

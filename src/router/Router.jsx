@@ -13,6 +13,9 @@ import MeetExpertVets from "../pages/MeetExpertVets";
 import PrivateRoute from "../provider/PrivateRoute";
 import Loading from "../pages/Loading";
 import BookingForm from "../pages/BookingForm";
+import AboutUs from "../pages/about/AboutUs";
+import Pricing from "../pages/pricing/Pricing";
+import ContactUs from "../pages/contact/ContactUs";
 
 export const router = createBrowserRouter([
   {
