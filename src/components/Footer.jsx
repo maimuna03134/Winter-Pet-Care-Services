@@ -63,7 +63,6 @@ const Footer = () => {
                 <br />
                 United States
               </span>
-             
             </a>
           </nav>
           <div className="">
@@ -89,19 +88,19 @@ const Footer = () => {
               <h6 className="footer-title hover:text-orange-400">Social</h6>
               <div className="flex space-x-4">
                 <a
-                  href="#"
+                  href="https://facebook.com/warmpaws"
                   className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-500 transition"
                 >
                   <FaFacebook className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://instagram.com/warmpaws"
                   className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-500 transition"
                 >
                   <BsInstagram className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://twitter.com/warmpaws"
                   className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-orange-500 transition"
                 >
                   <BsTwitter className="w-5 h-5" />
