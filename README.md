@@ -68,14 +68,6 @@ WarmPaws is a comprehensive pet care management platform that addresses the uniq
 
 ## 🚀 Installation & Setup Guide
 
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- **Node.js** (v16 or higher)
-- **npm** or **yarn** package manager
-- **Git** for version control
-
 ### Step 1: Clone the Repository
 
 ```bash
@@ -115,17 +107,6 @@ npm run preview
 
 ---
 
-## 🔧 Available Scripts
-
-In the project directory, you can run:
-
-- `npm run dev` - Start the development server
-- `npm run build` - Create an optimized production build
-- `npm run preview` - Preview the production build locally
-- `npm run lint` - Run linting (if configured)
-
----
-
 ## 🌐 Deployment
 
 ### Deploy to Firebase Hosting
@@ -160,8 +141,6 @@ npm run build
 firebase deploy
 ```
 
-Your application will be live at the URL provided by Firebase.
-
 ---
 
 ## 🎯 Features in Detail
@@ -178,24 +157,7 @@ Integrated booking system with calendar view to schedule grooming appointments. 
 
 Expert advice section with FAQs, seasonal health tips, and direct consultation booking with certified veterinarians.
 
-### Nutrition Planning
-
-AI-powered nutrition recommendations based on pet type, age, weight, and climate conditions during winter.
-
 ---
-
-## 📚 Documentation & Resources
-
-- **Firebase Documentation:** https://firebase.google.com/docs
-- **React Documentation:** https://react.dev
-- **Tailwind CSS:** https://tailwindcss.com
-- **Vite Guide:** https://vitejs.dev/guide/
-- **React Router:** https://reactrouter.com
-- **AOS Library:** https://michalsnik.github.io/aos/
-- **Swiper:** https://swiperjs.com/
-
----
-
 
 ## 💬 Include the live link and all relevant project links
 
@@ -203,15 +165,6 @@ AI-powered nutrition recommendations based on pet type, age, weight, and climate
 - GitHub Repo: https://github.com/maimuna03134/Winter-Pet-Care-Services.git
 - Visit the live website: https://cozy-winter-companion.web.app
 - **📱 Mobile Responsive:** Works on all devices
-
----
-
-## 🙏 Acknowledgments
-
-- All contributors and supporters
-- Firebase for hosting and backend services
-- The open-source community for amazing libraries and tools
-- Pet owners who inspired this project
 
 ---
 
