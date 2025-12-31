@@ -1,14 +1,16 @@
 # WarmPaws – Pet Care in Winter 🐾❄️
 
-A cozy winter companion platform designed for pet owners to ensure their furry friends stay warm, safe, and healthy during the cold season. WarmPaws provides a friendly interface where users can explore local pet care services, discover winter pet clothing, book grooming sessions, and access expert tips — all in one place.
-
-**Live Link:** https://cozy-winter-companion.web.app
-
----
-
 ## 📋 Project Overview
 
 WarmPaws is a comprehensive pet care management platform that addresses the unique challenges pet owners face during winter months. The application connects pet parents with essential winter care services, helping them keep their beloved companions comfortable, healthy, and protected from harsh weather conditions. Whether you need a warm coat for your dog, expert veterinary advice, or convenient grooming services, WarmPaws brings everything together in one welcoming platform.
+
+---
+
+**Live Link:** https://cozy-winter-companion.web.app
+
+<p align="center">
+  <img src="./warmspaw.jpg" width="100%" alt="Banner" />
+</p>
 
 ---
 
